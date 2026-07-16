@@ -1,7 +1,21 @@
-_This project has been created as part of the 42 curriculum by hcavet, vviterbo, fmixtur, kgauthie, yisho._
+<p align="center">
+  <img src="https://github.com/Ego8316/Ego8316/blob/main/42-badges/ft_transcendence.png" height="150" alt="42 webserv Badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/42-Project-blue" height="32"/>
+  <img src="https://img.shields.io/github/languages/code-size/Ego8316/ft_transcendence?color=5BCFFF" height="32"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-0a97f5?style=for-the-badge&logo=linux&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" height="32"/>
+</p>
 
 # ft_transcendence: Guess Tunes
 
+### 🎓 42 School – Final Grade: **125/100**
 ## Description
 
 ### Project
@@ -127,7 +141,6 @@ This rebuilds and starts the application without deleting the database volume.
 | `make prepare-db`        | Apply migrations and prepare a fresh seeded database.             |
 | `make prepare-playlists` | Migrate and synchronize playlist data without demo seeding.       |
 | `make delete-migrations` | Delete numbered Django migration files; use only when rebuilding. |
-| `make backend-test`      | Run the Makefile's selected backend profile test in a container.  |
 
 Frontend development commands are available from `services/frontend`:
 
