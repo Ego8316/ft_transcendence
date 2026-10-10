@@ -41,6 +41,20 @@ The project combines a React single-page frontend, a Django backend, a PostgreSQ
 - Static Terms of Service, Privacy Policy, Contact, and Q&A pages.
 - Dockerized deployment with nginx serving the frontend, static files, media files, API, and WebSocket proxy.
 
+### Screenshots
+
+#### Live Game
+
+![Live multiplayer game with the round leaderboard, answer timeline, and chat](screenshots/game_view.png)
+
+#### Leaderboard and Friends
+
+![Global leaderboard alongside incoming and outgoing friend requests](screenshots/leaderboard_and_friends.png)
+
+#### User Profile
+
+![User profile showing progression and detailed game statistics](screenshots/user_profile.png)
+
 ## Instructions
 
 ### Prerequisites
